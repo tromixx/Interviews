@@ -1,6 +1,3 @@
-# Interviews
-Interview process
-
 # Job Interview Tracker
 
 This README provides an overview of the companies I've interviewed with, including the interview progress, stack, job description, salary, and hiring details.
@@ -31,38 +28,3 @@ This README provides an overview of the companies I've interviewed with, includi
 | **Salary**            | $50 - $60/hour (W2). Contract-to-hire for 3 years.                                              |
 | **Additional Notes**  | Direct hire. Contact: Ryan Li.                                                                  |
 
----
-
-## Diagram Overview
-
-### Envestnet
-```plaintext
-+-------------------+                 +------------------------+
-|  Round 1: Screen  |   Completed -> |  Round 4: Final Stage  |
-+-------------------+                 +------------------------+
-Stack: C#, .NET, AWS
-Salary: $120,000 - $180,000/year
-Third-party representation
-```
-
-### Callaway Security & Sound
-```plaintext
-+-------------------+                 +------------------------+
-|  Round 1: Screen  |   Completed -> |  Round 4: Final Stage  |
-+-------------------+                 +------------------------+
-Stack: C#, .NET, React, Azure
-Salary: $50 - $60/hour (W2)
-Direct Hire
-```
-
----
-
-Stay tuned for updates on additional companies!
-```
-
-### How to Use
-- Add new sections as you progress with additional companies.
-- Use the diagrams to visualize your progress for quick reference.
-- Update the tables with any changes (e.g., salary negotiations, final offers). 
-
-Let me know if you'd like to refine this or add more features!
