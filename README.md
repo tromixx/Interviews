@@ -28,3 +28,16 @@ This README provides an overview of the companies I've interviewed with, includi
 | **Salary**            | $50 - $60/hour (W2). Contract-to-hire for 3 years.                                              |
 | **Additional Notes**  | Direct hire. Contact: Ryan Li.                                                                  |
 
+---
+
+## Company 3: **CareMetX**
+
+| **Category**          | **Details**                                                                                      |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| **Interview Rounds**  | 2/3 Completed                                                                                   |
+| **Job Title**         | Senior Engineer II                                                                              |
+| **Job Description**   | Focused on designing, building, deploying, and maintaining solutions for patient support platforms. <br>- Collaborate with cross-functional teams. <br>- Champion best practices like TDD, CI/CD, and Agile methodologies. <br>- Mentor junior engineers and contribute to system optimization and scalability. |
+| **Stack**             | C#, .NET, SQL, Apache Kafka, Docker, Kubernetes                                                 |
+| **What They Do**      | Provides solutions to improve patient access to life-changing medications by overcoming healthcare barriers. |
+| **Salary**            | $145,000 annually                                                                               |
+| **Additional Notes**  | Direct hire. Contact: Robert Peek.                                                              |
