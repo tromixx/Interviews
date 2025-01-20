@@ -1,9 +1,6 @@
 # Interviews
 Interview process
 
-Here's an organized `.md` file to document your interview progress with the provided companies. It uses a table and sections for clarity and consistency. 
-
-```markdown
 # Job Interview Tracker
 
 This README provides an overview of the companies I've interviewed with, including the interview progress, stack, job description, salary, and hiring details.
